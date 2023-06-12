@@ -1,4 +1,4 @@
-<img src=https://repository-images.githubusercontent.com/270889112/209ed680-aa44-11ea-8872-58651816a59b/>
+[till](https://github.com/MightiestGoat/MightiestGoat/blob/main/Resource/Helloworld.gif)
 
 <!--
 **MightiestGoat/MightiestGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
