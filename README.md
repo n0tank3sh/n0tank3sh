@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src=https://repository-images.githubusercontent.com/270889112/209ed680-aa44-11ea-8872-58651816a59b/>
 
 <!--
 **MightiestGoat/MightiestGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Visitors
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/MightiestGoat/count.svg" />
