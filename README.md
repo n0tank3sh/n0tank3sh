@@ -1,4 +1,4 @@
-[till](https://github.com/MightiestGoat/MightiestGoat/blob/main/Resource/Helloworld.gif)
+[me](https://github.com/MightiestGoat/MightiestGoat/blob/main/Resource/Helloworld.gif)
 
 <!--
 **MightiestGoat/MightiestGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
