@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 I am Ankesh from India. I am interested in Graphics Development and graphics API. I love contributing to the Graphics Engines.
 
 ## Stats 
-[![My Stats](https://www.github-readme-stats.vercel.app/api?username=MightiestGoat)](htttps://github.com/MightiestGoat/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MightiestGoat&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MightiestGoat&langs_count=5&theme=tokyonight)]()
