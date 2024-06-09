@@ -29,6 +29,7 @@ I am Ankesh from India. I am interested in Graphics Development and graphics API
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=n0tank3sh&langs_count=5&theme=blue-green)]()
 
-##Let's connect
+## Let's connect
 [![Linkedin](https://www.linkedin.com/in/ankesh-verma-461287289/)]()
+
 [![X](https://x.com/notankeshverma)]()
