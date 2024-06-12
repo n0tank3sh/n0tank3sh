@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## About me
-I am Ankesh from India. I am interested in Graphics Development and graphics API. I love contributing to the Graphics Engines.
+I am Ankesh from India. I am interested in gpu programming. 
 
 ## Stats 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=n0tank3sh&count_private=true&theme=blue-green&showicons=true)]()
